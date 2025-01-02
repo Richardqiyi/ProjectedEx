@@ -23,5 +23,38 @@ conduct comprehensive experiments on both the generator and
 classifier, demonstrating the clinical relevance and effectiveness
 of ProjectedEx in enhancing interpretability and supporting the
 adoption of AI in medical settings.
-![Overview of the proposed network.](https://github.com/Richardqiyi/ProjectedEx/blob/main/architecture.pdf)
+![Overview of the proposed network.](https://github.com/Richardqiyi/ProjectedEx/blob/main/architecture.png)
+
+## Environment Setup
+```
+# create a clean conda environment from scratch
+conda create --name python=3.10
+conda activate dymultidepth
+# install pip
+conda install ipython
+conda install pip
+# install required packages
+pip install -r requirements.txt
+```
+## Data
+The dataset should be organized as follows:
+```
+  data
+   └── ProstateCa
+       ├── train
+       │   ├── 1.jpg
+       │   ├── 2.jpg
+       │   ├── ...
+       └── valid
+           ├── ...
+```
+## Training
+Modify the parameters and run:
+```
+python cli.py
+```
+
+
+  
+
 
