@@ -2,9 +2,10 @@
 This is the code repository for the paper:
 > ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer
 > 
-> Xuyin Qi, Zeyu Zhang, Aaron Berliano Handoko, Huazhan Zheng, Mingxi Chen, Ta Duc Huy, Vu Minh Hieu Phan, Lei Zhang, Linqi Cheng, Shiyu Jiang, Zhiwei Zhang, Zhibin Liao, Yang Zhao, Minh-Son To
-> 
-> [arXiv](https://arxiv.org/abs/2501.01392)
+> [Xuyin Qi](https://www.linkedin.com/in/xuyin-q-29672524a/), [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*, [Aaron Berliano Handoko](https://www.linkedin.com/in/aaron-berliano-handoko-235406187/), Huazhan Zheng, Mingxi Chen, [Ta Duc Huy](https://scholar.google.com/citations?user=9vRcgJwAAAAJ&hl=en), [Vu Minh Hieu Phan](https://researchers.adelaide.edu.au/profile/vuminhhieu.phan), Lei Zhang, Linqi Cheng, Shiyu Jiang, Zhiwei Zhang, [Zhibin Liao](https://scholar.google.com/citations?user=HvWTE0IAAAAJ&hl=zh-CN), [Yang Zhao]()\**, [Minh-Son To]()
+>
+> \*Project lead. \**Corresponding author
+> [**[arXiv]**](https://arxiv.org/abs/2501.01392)
 
 ![T2 modality.](https://github.com/Richardqiyi/ProjectedEx/blob/main/t2_combined.png)
 ## Introduction
