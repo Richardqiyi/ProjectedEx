@@ -30,7 +30,7 @@ classifier, demonstrating the clinical relevance and effectiveness
 of ProjectedEx in enhancing interpretability and supporting the
 adoption of AI in medical settings.
 ![Overview of the proposed network.](https://github.com/Richardqiyi/ProjectedEx/blob/main/architecture.png)
-*Overview of the proposed network.
+*Overview of the proposed network.*
 
 ## Environment Setup
 ```
