@@ -5,6 +5,8 @@ This is the code repository for the paper:
 > Xuyin Qi, Zeyu Zhang, Aaron Berliano Handoko, Huazhan Zheng, Mingxi Chen, Ta Duc Huy, Vu Minh Hieu Phan, Lei Zhang, Linqi Cheng, Shiyu Jiang, Zhiwei Zhang, Zhibin Liao, Yang Zhao, Minh-Son To
 > 
 > [arXiv](https://arxiv.org/abs/2501.01392)
+
+![T2 modality.](https://github.com/Richardqiyi/ProjectedEx/blob/main/t2_combined.png)
 ## Introduction
 Prostate cancer, a growing global health concern,
 necessitates precise diagnostic tools, with Magnetic Resonance
