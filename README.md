@@ -1,7 +1,9 @@
 # ProjectedEx
 This is the code repository for the paper:
 > ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer
+> 
 > Xuyin Qi, Zeyu Zhang, Aaron Berliano Handoko, Huazhan Zheng, Mingxi Chen, Ta Duc Huy, Vu Minh Hieu Phan, Lei Zhang, Linqi Cheng, Shiyu Jiang, Zhiwei Zhang, Zhibin Liao, Yang Zhao, Minh-Son To
+> 
 > [arXiv](https://arxiv.org/abs/2501.01392)
 ## Introduction
 Prostate cancer, a growing global health concern,
