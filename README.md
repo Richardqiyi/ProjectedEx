@@ -8,6 +8,15 @@ This is the code repository for the paper:
 > 
 > [**[arXiv]**](https://arxiv.org/abs/2501.01392)
 
+```
+@article{qi2025projectedex,
+  title={ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer},
+  author={Qi, Xuyin and Zhang, Zeyu and Handoko, Aaron Berliano and Zheng, Huazhan and Chen, Mingxi and Huy, Ta Duc and Phan, Vu Minh Hieu and Zhang, Lei and Cheng, Linqi and Jiang, Shiyu and others},
+  journal={arXiv preprint arXiv:2501.01392},
+  year={2025}
+}
+```
+
 ![T2 modality.](https://github.com/Richardqiyi/ProjectedEx/blob/main/t2_combined.png)
 ## Introduction
 Prostate cancer, a growing global health concern,
