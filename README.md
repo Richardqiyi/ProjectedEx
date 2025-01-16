@@ -6,7 +6,7 @@ This is the code repository for the paper:
 >
 > \*Equal contribution. \**Corresponding author. †Project lead.
 > 
-> [**[arXiv]**](https://arxiv.org/abs/2501.01392)
+> [**[arXiv]**](https://arxiv.org/abs/2501.01392) [**[Paper with Code]**](https://paperswithcode.com/paper/projectedex-enhancing-generation-in)
 
 ```
 @article{qi2025projectedex,
