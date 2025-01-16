@@ -8,6 +8,8 @@ This is the code repository for the paper:
 > 
 > [**[arXiv]**](https://arxiv.org/abs/2501.01392) [**[Paper with Code]**](https://paperswithcode.com/paper/projectedex-enhancing-generation-in)
 
+## Citation
+
 ```
 @article{qi2025projectedex,
   title={ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer},
