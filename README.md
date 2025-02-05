@@ -1,6 +1,6 @@
 # ProjectedEx
 This is the code repository for the paper:
-> ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer
+> **ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer**
 > 
 > [Xuyin Qi](https://www.linkedin.com/in/xuyin-q-29672524a/)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, [Aaron Berliano Handoko](https://www.linkedin.com/in/aaron-berliano-handoko-235406187/)\*, Huazhan Zheng, Mingxi Chen, [Ta Duc Huy](https://scholar.google.com/citations?user=9vRcgJwAAAAJ&hl=en), [Vu Minh Hieu Phan](https://researchers.adelaide.edu.au/profile/vuminhhieu.phan), Lei Zhang, Linqi Cheng, Shiyu Jiang, Zhiwei Zhang, [Zhibin Liao](https://scholar.google.com/citations?user=HvWTE0IAAAAJ&hl=zh-CN), [Yang Zhao](https://yangyangkiki.github.io/)\**, [Minh-Son To](https://scholar.google.com/citations?user=NIc4qPsAAAAJ&hl=en)
 >
