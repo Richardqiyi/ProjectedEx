@@ -2,9 +2,11 @@
 This is the code repository for the paper:
 > **ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer**
 > 
-> [Xuyin Qi](https://www.linkedin.com/in/xuyin-q-29672524a/)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, [Aaron Berliano Handoko](https://www.linkedin.com/in/aaron-berliano-handoko-235406187/)\*, Huazhan Zheng, Mingxi Chen, [Ta Duc Huy](https://scholar.google.com/citations?user=9vRcgJwAAAAJ&hl=en), [Vu Minh Hieu Phan](https://researchers.adelaide.edu.au/profile/vuminhhieu.phan), Lei Zhang, Linqi Cheng, Shiyu Jiang, Zhiwei Zhang, [Zhibin Liao](https://scholar.google.com/citations?user=HvWTE0IAAAAJ&hl=zh-CN), [Yang Zhao](https://yangyangkiki.github.io/)\**, [Minh-Son To](https://scholar.google.com/citations?user=NIc4qPsAAAAJ&hl=en)
+> [Xuyin Qi](https://www.linkedin.com/in/xuyin-q-29672524a/)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*<sup>†</sup>, [Aaron Berliano Handoko](https://www.linkedin.com/in/aaron-berliano-handoko-235406187/)\*, Huazhan Zheng, Mingxi Chen, [Ta Duc Huy](https://scholar.google.com/citations?user=9vRcgJwAAAAJ&hl=en), [Vu Minh Hieu Phan](https://researchers.adelaide.edu.au/profile/vuminhhieu.phan), Lei Zhang, Linqi Cheng, Shiyu Jiang, Zhiwei Zhang, [Zhibin Liao](https://scholar.google.com/citations?user=HvWTE0IAAAAJ&hl=zh-CN), [Yang Zhao](https://yangyangkiki.github.io/)<sup>#</sup>, [Minh-Son To](https://scholar.google.com/citations?user=NIc4qPsAAAAJ&hl=en)
 >
-> \*Equal contribution. \**Corresponding author. †Project lead.
+> \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
+>
+> <em><b>CBMS 2025</b></em>
 > 
 > [**[arXiv]**](https://arxiv.org/abs/2501.01392) [**[Paper with Code]**](https://paperswithcode.com/paper/projectedex-enhancing-generation-in) **[[HF Paper]](https://huggingface.co/papers/2501.01392)**
 
