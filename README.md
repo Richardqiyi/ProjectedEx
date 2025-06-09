@@ -9,6 +9,8 @@ This is the code repository for the paper:
 > <em><b>CBMS 2025</b></em>
 > 
 > [**[arXiv]**](https://arxiv.org/abs/2501.01392) [**[Paper with Code]**](https://paperswithcode.com/paper/projectedex-enhancing-generation-in) **[[HF Paper]](https://huggingface.co/papers/2501.01392)**
+>
+> https://github.com/user-attachments/assets/68e4192f-8b21-485f-b0c5-68f81db68e5a
 
 ## Citation
 
