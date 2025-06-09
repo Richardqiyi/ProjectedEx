@@ -77,7 +77,12 @@ Modify the parameters and run:
 ```
 python cli.py
 ```
+## Inferring
+First use `run_attfind_combined.ipynb` to find the top 4 coordinators which have the most impact on classifer output.
 
+Then use 'all_results_notebook.ipynb' to visualize.
+
+ 
 
   
 
