@@ -12,6 +12,14 @@ This is the code repository for the paper:
 >
 > https://github.com/user-attachments/assets/68e4192f-8b21-485f-b0c5-68f81db68e5a
 
+
+## Youtube Video!!!
+
+If you’d like to learn more about our paper, be sure to check out this discussion video on the Open Life Science AI channel.
+
+[![Watch the video](https://img.youtube.com/vi/DamQWnxMM3E/maxresdefault.jpg)](https://youtu.be/DamQWnxMM3E)
+
+
 ## Citation
 
 ```
