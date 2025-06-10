@@ -15,9 +15,10 @@ This is the code repository for the paper:
 
 ## Youtube Video!!!
 
-If you’d like to learn more about our paper, be sure to check out this discussion video on the Open Life Science AI channel.
+If you’d like to learn more about our paper, be sure to check out this [**youtube video**](https://youtu.be/DamQWnxMM3E) on the Open Life Science AI channel.
 
 [![Watch the video](https://img.youtube.com/vi/DamQWnxMM3E/maxresdefault.jpg)](https://youtu.be/DamQWnxMM3E)
+
 
 
 ## Citation
