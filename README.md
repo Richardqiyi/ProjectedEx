@@ -61,15 +61,9 @@ adoption of AI in medical settings.
 *Overview of the proposed network.*
 
 ## Environment Setup
+for easy use:
 ```
-# create a clean conda environment from scratch
-conda create --name python=3.10
-conda activate dymultidepth
-# install pip
-conda install ipython
-conda install pip
-# install required packages
-pip install -r requirements.txt
+docker pull qiyi007/prostateca1:latest
 ```
 ## Data
 The dataset should be organized as follows:
